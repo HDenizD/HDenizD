@@ -31,19 +31,23 @@
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 
 <br>
-
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HDenizD&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HDenizD&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HDenizD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
----
 
+<br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HDenizD&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+#
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=denizzed&cover_image=true&theme=default&show_offline=false&bar_color=2e7d32&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
----
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=HDenizD&icon=0&color=6)](https://visitcount.itsvg.in)
 <!---
