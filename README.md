@@ -1,7 +1,7 @@
 
 # 😃 About Me:
 <h4>👋 Hi, I’m Deniz, a passionate frontend developer.</h4>
-<h4>❤️ What I love... Gaming, Psychology, Movies with twists, Philosophizing and Pizza Sauce Hollandaise with a jug of Ayran!</h4>
+<h4>❤️ What I love... Gaming, the right song in the morning, Movies with twists, Philosophizing and Pizza Sauce Hollandaise with a jug of Ayran!</h4>
 <h4>💞️ I’m looking to collaborate ... on any kind of frontend stuff</h4>
 <h4>📫 Reach me on Discord - Deniz#1623</h4>
 
