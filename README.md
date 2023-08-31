@@ -19,7 +19,6 @@
 ![Vuetify](https://img.shields.io/static/v1?style=for-the-badge&message=Vuetify&color=1867C0&logo=Vuetify&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![Quasar](https://img.shields.io/static/v1?style=for-the-badge&message=Quasar&color=1976D2&logo=Quasar&logoColor=FFFFFF&label=)
-![Vuetify](https://img.shields.io/static/v1?style=for-the-badge&message=Vuetify&color=1867C0&logo=Vuetify&logoColor=FFFFFF&label=)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Chart.js](https://img.shields.io/static/v1?style=for-the-badge&message=Chart.js&color=FF6384&logo=Chart.js&logoColor=FFFFFF&label=)
 ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
