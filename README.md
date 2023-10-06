@@ -45,10 +45,6 @@
 #
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=denizzed&cover_image=true&theme=default&show_offline=false&bar_color=2e7d32&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-<br>
-
 [![](https://visitcount.itsvg.in/api?id=HDenizD&icon=0&color=6)](https://visitcount.itsvg.in)
 <!---
 HDenizD/HDenizD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
