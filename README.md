@@ -3,7 +3,6 @@
 <h4>👋 Hi, I’m Deniz, a passionate frontend developer.</h4>
 <h4>❤️ What I love... Gaming, the right song in the morning, movies with twists, philosophy and pizza sauce hollandaise with a jug of Ayran!</h4>
 <h4>💞️ I’m looking to collaborate ... on any kind of frontend stuff</h4>
-<h4>📫 Reach me on Discord - Deniz#1623</h4>
 
 <br>
 
